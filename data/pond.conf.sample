@@ -1,0 +1,65 @@
+# sample server config
+
+[Preferences]
+
+BGP_Table = routingtable.input
+
+#List of extra routing table entries to load (filenames delimited by spaces).
+#Use '#' for comments within files.
+#The first non-comment, non-blank line in the file must be " color <red> <green> <blue> "
+#where the three colors are 8-bit color values. This is the color
+#to be used for all entries in the file. 
+#Following lines must have the format address/network_bits (i.e. 192.168.0.0/16)
+#followed by a space. Anything after the space is ignored. One entry per line.
+Aux_Table_Entries = routingtableReserved.input routingtableUnallocated.input
+
+etflow_Archive_Path = /home/goffm/flowbin/
+Netflow_Archive_Path = ./nfbin/
+Max_Clients = 15
+Listen_Port = 4444
+Password = flamingo
+
+
+[AA1]
+
+Port = 20655
+Scaling = 1000
+Sampling = 100
+Aggregation = true
+AS_Availability = true
+
+
+[CHI3]
+
+Port = 20656
+Scaling = 1000
+Sampling = 100
+Aggregation = true
+AS_Availability = true
+
+
+[CHI2]
+
+Port = 20657
+Scaling = 1
+Sampling = 100
+Aggregation = true
+AS_Availability = true
+
+
+[WSU]
+
+Port = 20658
+Scaling = 1
+Sampling = 100
+Aggregation = true
+AS_Availability = true
+
+
+[SOEKRIS]
+
+Port = 20659
+Scaling = 1
+Sampling = 100
+Aggregation = false
+AS_Availability = false

@@ -1,0 +1,117 @@
+#List of Reserved IPV4 space from
+#http://www.iana.org/assignments/ipv4-address-space
+#seperated out the IANA entries from the whole registry
+
+
+
+#red green blue  (line must start with keyword 'color')
+color 0 0 0
+
+
+0.0.0.0/8   Sep 81   IANA - Reserved
+1.0.0.0/8   Sep 81   IANA - Reserved
+2.0.0.0/8   Sep 81   IANA - Reserved
+5.0.0.0/8   Jul 95   IANA - Reserved
+7.0.0.0/8   Apr 95   IANA - Reserved
+10.0.0.0/8   Jun 95   IANA - Private Use                  See [RFC1918]
+14.0.0.0/8   Jun 91   IANA - Public Data Network
+23.0.0.0/8   Jul 95   IANA - Reserved
+27.0.0.0/8   Apr 95   IANA - Reserved
+31.0.0.0/8   Apr 99   IANA - Reserved
+36.0.0.0/8   Jul 00   IANA - Reserved                     (Formerly Stanford University - Apr 93)
+37.0.0.0/8   Apr 95   IANA - Reserved
+39.0.0.0/8   Apr 95   IANA - Reserved
+42.0.0.0/8   Jul 95   IANA - Reserved
+74.0.0.0/8   Sep 81   IANA - Reserved
+75.0.0.0/8   Sep 81   IANA - Reserved
+76.0.0.0/8   Sep 81   IANA - Reserved
+77.0.0.0/8   Sep 81   IANA - Reserved
+78.0.0.0/8   Sep 81   IANA - Reserved
+79.0.0.0/8   Sep 81   IANA - Reserved
+89.0.0.0/8   Sep 81   IANA - Reserved
+90.0.0.0/8   Sep 81   IANA - Reserved
+91.0.0.0/8   Sep 81   IANA - Reserved
+92.0.0.0/8   Sep 81   IANA - Reserved
+93.0.0.0/8   Sep 81   IANA - Reserved
+94.0.0.0/8   Sep 81   IANA - Reserved
+95.0.0.0/8   Sep 81   IANA - Reserved
+96.0.0.0/8   Sep 81   IANA - Reserved
+97.0.0.0/8   Sep 81   IANA - Reserved
+98.0.0.0/8   Sep 81   IANA - Reserved
+99.0.0.0/8   Sep 81   IANA - Reserved
+100.0.0.0/8   Sep 81   IANA - Reserved
+101.0.0.0/8   Sep 81   IANA - Reserved
+102.0.0.0/8   Sep 81   IANA - Reserved
+103.0.0.0/8   Sep 81   IANA - Reserved
+104.0.0.0/8   Sep 81   IANA - Reserved
+105.0.0.0/8   Sep 81   IANA - Reserved
+106.0.0.0/8   Sep 81   IANA - Reserved
+107.0.0.0/8   Sep 81   IANA - Reserved
+108.0.0.0/8   Sep 81   IANA - Reserved
+109.0.0.0/8   Sep 81   IANA - Reserved
+110.0.0.0/8   Sep 81   IANA - Reserved
+111.0.0.0/8   Sep 81   IANA - Reserved
+112.0.0.0/8   Sep 81   IANA - Reserved
+113.0.0.0/8   Sep 81   IANA - Reserved
+114.0.0.0/8   Sep 81   IANA - Reserved
+115.0.0.0/8   Sep 81   IANA - Reserved
+116.0.0.0/8   Sep 81   IANA - Reserved
+117.0.0.0/8   Sep 81   IANA - Reserved
+118.0.0.0/8   Sep 81   IANA - Reserved
+119.0.0.0/8   Sep 81   IANA - Reserved
+120.0.0.0/8   Sep 81   IANA - Reserved
+121.0.0.0/8   Sep 81   IANA - Reserved
+122.0.0.0/8   Sep 81   IANA - Reserved
+123.0.0.0/8   Sep 81   IANA - Reserved
+127.0.0.0/8   Sep 81   IANA - Reserved                     See [RFC3330]
+173.0.0.0/8   Apr 03   IANA - Reserved
+174.0.0.0/8   Apr 03   IANA - Reserved
+175.0.0.0/8   Apr 03   IANA - Reserved
+176.0.0.0/8   Apr 03   IANA - Reserved
+177.0.0.0/8   Apr 03   IANA - Reserved
+178.0.0.0/8   Apr 03   IANA - Reserved
+179.0.0.0/8   Apr 03   IANA - Reserved
+180.0.0.0/8   Apr 03   IANA - Reserved
+181.0.0.0/8   Apr 03   IANA - Reserved
+182.0.0.0/8   Apr 03   IANA - Reserved
+183.0.0.0/8   Apr 03   IANA - Reserved
+184.0.0.0/8   Apr 03   IANA - Reserved
+185.0.0.0/8   Apr 03   IANA - Reserved
+186.0.0.0/8   Apr 03   IANA - Reserved
+187.0.0.0/8   Apr 03   IANA - Reserved
+189.0.0.0/8   Apr 03   IANA - Reserved
+190.0.0.0/8   Apr 03   IANA - Reserved
+197.0.0.0/8   May 93   IANA - Reserved
+223.0.0.0/8   Apr 03   IANA - Reserved                               
+#224.0.0.0/8   Sep 81   IANA - Multicast
+#225.0.0.0/8   Sep 81   IANA - Multicast
+#226.0.0.0/8   Sep 81   IANA - Multicast
+#227.0.0.0/8   Sep 81   IANA - Multicast
+#228.0.0.0/8   Sep 81   IANA - Multicast
+#229.0.0.0/8   Sep 81   IANA - Multicast
+#230.0.0.0/8   Sep 81   IANA - Multicast
+#231.0.0.0/8   Sep 81   IANA - Multicast
+#232.0.0.0/8   Sep 81   IANA - Multicast
+#233.0.0.0/8   Sep 81   IANA - Multicast
+#234.0.0.0/8   Sep 81   IANA - Multicast
+#235.0.0.0/8   Sep 81   IANA - Multicast
+#236.0.0.0/8   Sep 81   IANA - Multicast
+#237.0.0.0/8   Sep 81   IANA - Multicast
+#238.0.0.0/8   Sep 81   IANA - Multicast
+#239.0.0.0/8   Sep 81   IANA - Multicast
+240.0.0.0/8   Sep 81   IANA - Reserved
+241.0.0.0/8   Sep 81   IANA - Reserved
+242.0.0.0/8   Sep 81   IANA - Reserved
+243.0.0.0/8   Sep 81   IANA - Reserved
+244.0.0.0/8   Sep 81   IANA - Reserved
+245.0.0.0/8   Sep 81   IANA - Reserved
+246.0.0.0/8   Sep 81   IANA - Reserved
+247.0.0.0/8   Sep 81   IANA - Reserved
+248.0.0.0/8   Sep 81   IANA - Reserved
+249.0.0.0/8   Sep 81   IANA - Reserved
+250.0.0.0/8   Sep 81   IANA - Reserved
+251.0.0.0/8   Sep 81   IANA - Reserved
+252.0.0.0/8   Sep 81   IANA - Reserved
+253.0.0.0/8   Sep 81   IANA - Reserved
+254.0.0.0/8   Sep 81   IANA - Reserved
+255.0.0.0/8   Sep 81   IANA - Reserved
